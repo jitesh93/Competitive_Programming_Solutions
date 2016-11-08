@@ -1,5 +1,5 @@
 # Competitive_Programming_Solutions
-Solutions in C++, Java, Python..
+Online Problem Solutions in C++, Java, Python.
 
 ## Hackerearth
 ### Code Monk Searching
