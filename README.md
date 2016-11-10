@@ -12,6 +12,7 @@ Online Problem Solutions in C++, Java, Python.
 ## Sphere Online Judge
 ### Classical Problems
 1. PRIME1 - Prime Generator : http://www.spoj.com/problems/PRIME1/
+
 ### Basic Problems
 1. CPTTRN1 - Character Pattern (Act 1) : http://www.spoj.com/problems/CPTTRN1/
 2. CPTTRN2 - Character Pattern (Act 2) : http://www.spoj.com/problems/CPTTRN2/
